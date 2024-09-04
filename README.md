@@ -2,9 +2,9 @@
 
 meu nome e mariana
 
-_ sou aulna e gotos de estudar e 
-_ recentemente estou querdo tarbalhar e fazer facodade de fisuterapeuta ou efemera 
-_ aqui vou compartilhar os projetos desenvolvidas durante o curso
+- sou aulna e gotos de estudar e 
+- recentemente estou querdo tarbalhar e fazer facodade de fisuterapeuta ou efemera 
+- aqui vou compartilhar os projetos desenvolvidas durante o curso
 
 ####quelquer cois, eu setuo aqui para te ajudar bejinhos ##
 
