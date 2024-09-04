@@ -1,16 +1,15 @@
-## Hi there 👋
+## uma boa tarde  👋
 
-<!--
-**mariana1790/mariana1790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e mariana
 
-Here are some ideas to get you started:
+_ sou aulna e gotos de estudar e 
+_ recentemente estou querdo tarbalhar e fazer facodade de fisuterapeuta ou efemera 
+_ aqui vou compartilhar os projetos desenvolvidas durante o curso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####quelquer cois, eu setuo aqui para te ajudar bejinhos ##
+
+aevedomariana984@gmail.com
+
+Ma17052006#
+
+![](https://media1.tenor.com/m/ArddamM7tO4AAAAC/oh-yeah.gif)
